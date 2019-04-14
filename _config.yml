@@ -30,6 +30,11 @@ minima:
     twitter: hrtshu
     github:  hrtshu
 
+# External service settings
+google_analytics: GTM-NPNQ5VC # Google Tag Manager tracking ID
+disqus:
+  shortname: shuheis-blog
+
 # Build settings
 markdown: kramdown
 remote_theme: hrtshu/minima
