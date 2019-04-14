@@ -22,6 +22,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.shuhei-h.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hrtshu
 github_username:  hrtshu
+favicon: https://secure.gravatar.com/avatar/0041cfb17810986fb59050b3a1eed550
 
 # Minima settings
 minima:
