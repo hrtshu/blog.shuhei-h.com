@@ -36,6 +36,10 @@ google_analytics: GTM-NPNQ5VC # Google Tag Manager tracking ID
 disqus:
   shortname: shuheis-blog
 
+# Cookie Consent settings
+cookie_consent:
+  enabled: true
+
 # Build settings
 markdown: kramdown
 remote_theme: hrtshu/minima@v25fad6d
