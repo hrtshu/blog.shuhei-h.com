@@ -37,7 +37,7 @@ disqus:
 
 # Build settings
 markdown: kramdown
-remote_theme: hrtshu/minima
+remote_theme: hrtshu/minima@v55ae516
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
